@@ -157,8 +157,7 @@ animation: spin 2s linear infinite;
   }
   
   .quote-header p {
-    font-size: 1.2rem;
-    margin: 0;
+    display: none;
   }
 
   .quote-author {
@@ -172,7 +171,7 @@ animation: spin 2s linear infinite;
     height: 3rem;
     border-radius: 8px;
     outline: none;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 1.2rem;
     box-shadow: 0 0.2rem rgba(121, 121, 121, 0.65);
   }
 
