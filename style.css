@@ -47,19 +47,19 @@ body {
 
 .quote-container {
   width: auto;
-  max-width: 960px;
+  max-width: 900px;
   padding: 20px 50px;
-  border-radius: 6px;
+  border-radius: 12px;
   background-color: rgba(255,255,255,0.4);
   box-shadow: 0 10px 10px 10px rgba(0,0,0,0.2); 
 }
 
 .quote-text {
-  font-size: 3rem;
+  font-size: 4rem;
 }
 
 .long-quote {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .fa-quote-left {
@@ -81,10 +81,10 @@ body {
 
 button {
   cursor: pointer;
-  font-size: 1.2rem;
+  font-size: 2rem;
   height: 2.5rem;
   border: none;
-  border-radius: 6px;
+  border-radius: 12px;
   color: #fff;
   background: #0d3032;
   outline: none;
