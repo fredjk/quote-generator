@@ -81,14 +81,14 @@ body {
 
 button {
   cursor: pointer;
-  font-size: 2rem;
-  height: 2.5rem;
+  font-size: 3rem;
+  height: 4rem;
   border: none;
   border-radius: 12px;
   color: #fff;
   background: #0d3032;
   outline: none;
-  padding: 0.5rem 1.8rem;
+  padding: 0.75rem 2rem;
   box-shadow: 0 0.3rem rgba(121, 121, 121, 0.65);
 }
 
