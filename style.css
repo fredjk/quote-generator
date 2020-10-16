@@ -34,20 +34,20 @@ body {
 
 .quote-header h1 {
   color: white;
-  font-size: 3rem;
+  font-size: 5rem;
   font-family: 'Montserrat Subrayada', sans-serif;
   margin: .5em 0 0 0;
   text-shadow: 3px 3px rgba(0,0,0,0.1);
 }
 
 .quote-header p {
-  font-size: 1.6rem;
+  font-size: 2rem;
   margin: 0;
 }
 
 .quote-container {
   width: auto;
-  max-width: 900px;
+  max-width: 960px;
   padding: 20px 50px;
   border-radius: 6px;
   background-color: rgba(255,255,255,0.4);
@@ -55,12 +55,11 @@ body {
 }
 
 .quote-text {
-  font-size: 2rem;
-  max-width: 450px;
+  font-size: 3rem;
 }
 
 .long-quote {
-  font-size: 1.6rem;
+  font-size: 2rem;
 }
 
 .fa-quote-left {
@@ -69,7 +68,7 @@ body {
 
 .quote-author {
   margin-top: 15px;
-  font-size: 1.6rem;
+  font-size: 2rem;
   font-weight: 400;
   font-style: italic;
 }
@@ -134,7 +133,7 @@ animation: spin 2s linear infinite;
 
 /* Media Queries: Tablet or Smaller  */
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 960px) {
   .quote-container {
     margin: auto 20px;
   }
